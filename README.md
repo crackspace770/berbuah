@@ -16,7 +16,7 @@ Our project combines technology from path machine learning, android, and cloud c
 
 ## Branch
 * <a href='http://yourlink.com'>Machine Learning Repo</a>
-* <a href='http://yourlink.com'>Cloud Computing Repo</a>
+* <a href='https://github.com/andriefatah/berbuah-restful-api'>Cloud Computing Repo</a>
 * <a href='https://github.com/nraliim/BerbuahAndroid'>Android Developer Repo</a>
 
 ## Fork Repository
